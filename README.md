@@ -1,2 +1,3 @@
-# duplicate-question-detection-nlp
-Hybrid NLP system for duplicate question detection using SBERT dual encoder and BERT cross encoder with XGBoost feature fusion.
+# Duplicate Question Detection using SBERT and BERT
+
+This project implements a hybrid NLP framework to detect duplicate questions using a dual-encoder (SBERT) for fast similarity search and a cross-encoder (BERT) for deep semantic comparison.
